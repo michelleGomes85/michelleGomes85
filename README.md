@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu GitHub 👋
+# Bem-vindo 👋
 ---
 
 ## Estatisticas e Linguagens mais usadas
