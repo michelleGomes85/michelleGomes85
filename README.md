@@ -1,6 +1,6 @@
 
 
-![banner](banner.gif)
+![banner](banner-home.gif)
 
 <div align="center">
   
