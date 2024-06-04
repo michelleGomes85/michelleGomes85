@@ -10,7 +10,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleGomes85&layout=compact&theme=dracula&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
   
-  ## Tecnologias e Ferramentas
+  ## Technologies and Tools
   
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
