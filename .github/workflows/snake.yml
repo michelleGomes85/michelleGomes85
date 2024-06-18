@@ -10,9 +10,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
       
       # Snake Animation
       - uses: Platane/snk@master
@@ -38,4 +35,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
