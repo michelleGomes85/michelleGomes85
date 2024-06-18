@@ -23,6 +23,4 @@
   </p>
 
   ![Snake animation](https://github.com/michelleGomes85/github-readme-snake/blob/output/github-contribution-grid-snake.svg)
-
-
 </div>
