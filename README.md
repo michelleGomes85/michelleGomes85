@@ -36,15 +36,15 @@
     </tr>
   </table>
 
+  ## Certifications and Achievements
+  
+  <a href="https://github.com/michelleGomes85/Certificates/blob/main/README.md"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Certificates Repository" width="60" height="60"/></a>
+
   ## Contact
   
   <a href="mailto:gmichele498@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="60" height="60"></a>
   <a href="https://www.linkedin.com/in/michelleGomes85/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
   <a href="https://wa.me/5532987094454"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="60" height="60"/></a>
-
-  ## Certifications and Achievements
-  
-  <a href="https://github.com/michelleGomes85/Certificates/blob/main/README.md"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Certificates Repository" width="60" height="60"/></a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michellegomes85/michellegomes85/output/github-contribution-grid-snake-dark.svg">
