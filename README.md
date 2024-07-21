@@ -36,7 +36,7 @@
     </tr>
   </table>
 
-  ## Achievements
+  ## knowledge
   
   <a href="https://github.com/michelleGomes85/Achievements/blob/main/README.md"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Certificates Repository" width="60" height="60"/></a>
 
