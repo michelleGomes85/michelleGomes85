@@ -1,4 +1,4 @@
-![banner](banner-home.gif)
+![banner](https://github.com/michelleGomes85/michelleGomes85/blob/main/banner-home.gif)
 
 <div align="center">
   
