@@ -9,7 +9,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleGomes85&layout=compact&theme=dracula&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Training History](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
-[![Training History](https://img.shields.io/badge/Training%20History-%23E94D5F.svg?style=for-the-badge&logo=book&logoColor=white)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+[![Training History](https://img.shields.io/badge/Training%20History-%23D03A6F.svg?style=for-the-badge&logo=book&logoColor=white)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
+
 
   
   ## Technologies and Tools
