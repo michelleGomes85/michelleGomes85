@@ -7,6 +7,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelleGomes85&theme=dracula&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleGomes85&layout=compact&theme=dracula&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
   
   ## Technologies and Tools
   
@@ -35,8 +37,6 @@
       </td>
     </tr>
   </table>
-
-[![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
 
   ## Contact
   
