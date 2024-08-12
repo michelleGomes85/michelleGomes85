@@ -1,19 +1,21 @@
 ![banner](https://github.com/michelleGomes85/michelleGomes85/blob/main/banner-home.gif)
 
+
 <div align="center">
   
   ## GitHub Stats
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelleGomes85&theme=dracula&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleGomes85&layout=compact&theme=dracula&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelleGomes85&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=000000" />
+  </a>
 
- [![Training History](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
-[![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
+<br><br/>
 
+  [![Training History](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
+  [![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
 
-
-  
   ## Technologies and Tools
   
   <table align="center">
