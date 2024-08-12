@@ -7,11 +7,7 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michelleGomes85&theme=dracula&background=000000)](https://git.io/streak-stats)
   
-  <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelleGomes85&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=000000" />
-  </a>
-
-<br><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleGomes85&langs_count=8&theme=dracula&bg_color=000000&layout=compact&card_width=350)
 
   [![Training History](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
   [![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
