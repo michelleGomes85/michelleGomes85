@@ -14,31 +14,61 @@
 
   ## Technologies and Tools
   
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/><br>C
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br>C++
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/><br>HTML
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/><br>CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br>Java
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-    </tr>
-  </table>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://devicon.dev">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">C</td>
+    <td align="center" width="100">C++</td>
+    <td align="center" width="100">HTML</td>
+    <td align="center" width="100">CSS</td>
+    <td align="center" width="100">JavaScript</td>
+    <td align="center" width="100">Java</td>
+    <td align="center" width="100">Python</td>
+  </tr>
+</table>
+
+
+
+
 
   ## Contact
   
