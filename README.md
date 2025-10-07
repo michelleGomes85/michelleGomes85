@@ -73,7 +73,7 @@
   ## Contact
   
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gmichele498@gmail.com&su=Contato pelo GitHub&body=Olá%20Tudo%20Bem!" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="60" height="60"></a>
-  <a href="https://www.linkedin.com/in/michelleGomes85/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
+  <a href="https://www.linkedin.com/in/michellegomes85/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/></a>
   <a href="https://wa.me/5532987094454" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="60" height="60"/></a>
 
   <picture>
