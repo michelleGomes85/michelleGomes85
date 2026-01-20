@@ -5,7 +5,7 @@
   [![Training History](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
   [![Training History](https://img.shields.io/badge/Training%20History-%23000000.svg?style=for-the-badge&logo=book&logoColor=white)](https://github.com/michelleGomes85/Achievements/blob/main/README.md)
 
-  ## Technologies and Tools
+## Technologies and Tools
   
 <table align="center">
   <tr>
@@ -59,9 +59,70 @@
   </tr>
 </table>
 
+## Projects
 
-
-
+<table align="center" style="border-spacing: 0; border-collapse: collapse; width: 50%;">
+  <tr>
+    <td bgcolor="#0d1117" style="border: 1px solid #30363d; padding: 25px;">
+      <div>
+        <h3>BOOK SOUND TRACK</h3>
+      </div>
+      <p align="justify">
+        <b>Automação Multimodal:</b> Pipeline inteligente que analisa o sentimento e a narrativa de obras literárias para gerar playlists sincronizadas no Spotify.
+      </p>
+      <p>
+        <strong>Destaque:</strong> Integração de 3 APIs distintas (Google Books, Spotify e Gemini) com autenticação OAuth2 e tratamento de dados estruturados.<br>
+        <strong>Stack:</strong> Python, Flask, Spotify API, Gemini.
+      </p>
+      <div>
+        <br>
+        <a href="https://github.com/michelleGomes85/StorySoundTrack">
+          <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0d1117" style="border: 1px solid #30363d; padding: 25px;">
+      <div>
+        <h3>OPSLINUX</h3>
+      </div>
+      <p align="justify">
+        <b>Agentic AI para Infraestrutura:</b> Sistema que orquestra agentes de IA para monitorar recursos Linux via linguagem natural. Atua como um copiloto para administradores de sistema.
+      </p>
+      <p>
+        <strong>Destaque:</strong> Arquitetura de segurança com API intermediária e fluxo de orquestração manual entre agentes (Router e Summarizer).<br>
+        <strong>Stack:</strong> Python, Flask, Gemini API, psutil.
+      </p>
+      <div>
+        <br>
+        <a href="https://github.com/michelleGomes85/OpsLinux">
+          <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0d1117" style="border: 1px solid #30363d; padding: 25px;">
+      <div>
+        <h3>THRONE SWIPE AI</h3>
+      </div>
+      <p align="justify">
+        <b>LLM Game Engine:</b> Jogo Android inspirado em Reigns, onde a inteligência artificial processa estados de jogo, consequências de escolhas e árvores narrativas.
+      </p>
+      <p>
+        <strong>Destaque:</strong> Gerenciamento de estado dinâmico e otimização de requisições HTTP nativas para redução de latência e custos.<br>
+        <strong>Stack:</strong> Java (Android), HTTP Nativo, Gemini API.
+      </p>
+      <div>
+        <br>
+        <a href="https://github.com/michelleGomes85/ThroneSwipeAI">
+          <img src="https://img.shields.io/badge/ACESSAR%20REPOSITÓRIO-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
   ## Contact
   
